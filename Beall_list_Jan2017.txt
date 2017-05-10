@@ -124,7 +124,7 @@ Cardiology and Cardiovascular Medicine
 Caribbean Journal of Science and Technology
 Case Study and Case Report
 The Caspian Sea Journal (CSJ)
-Cellular and Molecular Biology also here
+Cellular and Molecular Biology
 Centrum
 Chemical Science Transactions
 Chemistry Research Journal
@@ -930,7 +930,7 @@ International Review of Basic and Applied Sciences (IRBAS)
 International Review of Management and Business Research (IRMBR)
 International Review of Social Sciences and Humanities
 International Science and Investigation Journal (ISIJ)
-International Scientific Investigations (ISI) Проблемы и перспективы современной науки
+International Scientific Investigations (ISI)
 International Scientific Journal Theoretical & Applied Science
 International Scientific Research Journal (IRJ.Science)
 International Technical Sciences Journal (ITSJ)
@@ -1154,7 +1154,7 @@ LiBRI: Linguistic and Literary Broad Research and Innovation
 Lingua: International Journal of Linguistics, Literature and Culture (Lingua- IJLLC)
 Lokavishkar International E-Journal
 The Macrotheme Review
-Malti: International Hindi e-Research Journal (मालती: अंतर्राष्ट्रीय हिंदी इ-शोध)
+Malti: International Hindi e-Research Journal
 Mathematical and Computational Applications (MCA)
 Mechanics, Materials Science & Engineering Journal (MMSE Journal)
 Medical Research Archives
